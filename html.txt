@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tech Spark 2025</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Tech Spark 2025</h1>
+    <p>Annual Tech Meetup - Learn, Connect, Innovate</p>
+  </header>
+
+  <section class="event-details">
+    <h2>Event Details</h2>
+    <p><strong>Date:</strong> August 20, 2025</p>
+    <p><strong>Time:</strong> 10:00 AM - 4:00 PM</p>
+    <p><strong>Location:</strong> City Convention Center, Visakhapatnam</p>
+  </section>
+
+  <section class="about">
+    <h2>About the Event</h2>
+    <p>
+      Tech Spark 2025 brings together developers, entrepreneurs, and tech
+      enthusiasts for a day of insightful talks, networking, and innovation
+      showcases.
+    </p>
+  </section>
+
+  <section class="speakers">
+    <h2>Key Speakers</h2>
+    <ul>
+      <li>💬 Anjali Rao - AI Researcher</li>
+      <li>💬 Vikram Das - Cloud Architect</li>
+      <li>💬 Neha Sharma - Web Developer & Tech Influencer</li>
+    </ul>
+  </section>
+
+  <section class="register">
+    <h2>Register Now</h2>
+    <form action="#" method="POST">
+      <label for="name">Full Name:</label>
+      <input type="text" id="name" name="name" required />
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required />
+
+      <label for="phone">Phone Number:</label>
+      <input type="tel" id="phone" name="phone" required />
+
+      <button type="submit">Submit Registration</button>
+    </form>
+  </section>
+
+  <section class="gallery">
+    <h2>Event Gallery (Previous Years)</h2>
+    <div class="gallery-images">
+      <img src="https://via.placeholder.com/200x120?text=2019" alt="Event 2019" />
+      <img src="https://via.placeholder.com/200x120?text=2020" alt="Event 2020" />
+      <img src="https://via.placeholder.com/200x120?text=2022" alt="Event 2022" />
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Tech Spark. All rights reserved.</p>
+  </footer>
+</body>
+</html>
